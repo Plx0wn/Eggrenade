@@ -1,0 +1,17 @@
+name: Eggrenade
+main: fr.lucluc.Eggrenade
+description: Eggs are grenades!
+author: [lucluc52, Plx0wn]
+version: 1.3
+
+commands:
+   eggrenade:
+      default: op
+permissions:
+   eggrenade.use:
+      default: op
+      description: Allow player to throw grenades.
+   eggrenade.commands:
+      default: op
+      description: Allow player to use commands.
+   

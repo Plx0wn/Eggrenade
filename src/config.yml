@@ -1,0 +1,30 @@
+# If you see an error tell me in spigot or bukkit!
+
+#####################################
+#+---------------------------------+#
+#|            CONFIGS              |#
+#+---------------------------------+#
+#####################################
+
+# Enable or disable chicken
+disable-chicken: false
+
+damage:
+   block: true
+#   player: true (soon)
+#   other-entity: true (soon)
+
+explosion:
+   radius: 3.0
+
+
+#####################################
+#+---------------------------------+#
+#|            MESSAGES             |#
+#+---------------------------------+#
+#####################################
+
+messages:
+   enable: true
+   throw: "&aYou throw a grenade!"
+
